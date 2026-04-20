@@ -10,7 +10,7 @@ import './assets/css/App.css'
 
 function App() {
   // 2. Iniciamos por defecto en 'home'.
-  const [vista, setVista] = useState('Pizzas');
+  const [vista, setVista] = useState('pizza');
 
   return (
     <div className="layout-grid">
